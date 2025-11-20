@@ -170,8 +170,8 @@ color: #222;
 
 /* Google Button */
 .google-btn {
-    width: 90%;
-    max-width: 320px;
+    width: 100%;
+    max-width: 920px;
     padding: 12px 15px;
     border: 1px solid #ccc;
     border-radius: 8px;
@@ -210,12 +210,12 @@ color: #222;
 .signup-text a:hover {
     text-decoration: underline;
 }
-
-/* Responsive */
 @media (max-width: 480px) {
     .google-btn {
         font-size: 14px;
         padding: 10px;
     }
 }
+
+
 
